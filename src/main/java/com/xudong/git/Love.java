@@ -7,5 +7,6 @@ public class Love {
 		System.out.println("gitDemo2");
 		
 		System.out.println("gitDemo1");
+		int a = 0;
 	}
 }
